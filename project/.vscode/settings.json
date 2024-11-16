@@ -1,0 +1,7 @@
+// "editor.codeActionsOnSave": {
+//     "source.fixAll.eslint":"explicit"
+// },
+
+"css.validate": false,
+"scss.validate": false,
+"less.validate": false
